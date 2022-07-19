@@ -1,0 +1,13 @@
+core.entity_form_display.*.*.*.third_party.display_machine_name:
+  type: display_machine_name.third_party_settings
+
+core.entity_view_display.*.*.*.third_party.display_machine_name:
+  type: display_machine_name.third_party_settings
+
+display_machine_name.third_party_settings:
+  type: mapping
+  label: 'Display machine name settings'
+  mapping:
+    enable_display_machine_name:
+      type: integer
+      label: 'Enable display machine name'

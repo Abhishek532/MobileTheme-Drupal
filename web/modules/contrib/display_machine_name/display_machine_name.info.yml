@@ -1,0 +1,11 @@
+name: Display Machine Name
+type: module
+description: Display the machine name on form/view displays.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Other
+
+# Information added by Drupal.org packaging script on 2021-02-24
+version: '2.0.0-alpha1'
+project: 'display_machine_name'
+datestamp: 1614192886
